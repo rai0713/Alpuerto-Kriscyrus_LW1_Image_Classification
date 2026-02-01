@@ -1,7 +1,8 @@
 # Alpuerto-Kriscyrus_LW1_Image_Classification
 
 [Google Colab Link](https://colab.research.google.com/drive/1popFc4hAX3rs1Uc5YfqrVM0QdiYS9OB_?usp=sharing)
-Questions:
+
+### Questions:
 1. What is the Fashion MNIST dataset?
 Answer: Fashion MNIST dataset is the one who gives the premade data clothing and accessories images and fixed images where it cannot be changes, this MNIST data set is been handwritten digits (0-9) and there is 10 categories of it: T-shirt, Trouser, Pullover, Dress, Coat, Sandal, Shirt, Sneaker, Bag, Ankle boot.
 
