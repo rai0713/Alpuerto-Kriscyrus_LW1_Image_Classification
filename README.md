@@ -1,4 +1,4 @@
-_LW1_Image_Classification
+# Alpuerto-Kriscyrus_LW1_Image_Classification
 
 [Google Colab Link](https://colab.research.google.com/drive/1popFc4hAX3rs1Uc5YfqrVM0QdiYS9OB_?usp=sharing)
 Questions:
